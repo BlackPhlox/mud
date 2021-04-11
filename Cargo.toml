@@ -8,8 +8,8 @@ description = "Write once, use everywhere, based on mudblazor.com"
 homepage = "https://mud.rs"
 repository = "https://github.com/BlackPhlox/mud"
 readme = "README.md"
-keywords = ["gui", "app", "api", "html", "css" ]
-categories = ["gui", "webassembly", "web-programming"]
+keywords = ["gui", "app", "api", "wasm", "html", "css" ]
+categories = ["gui", "wasm", "web-programming"]
 
 exclude = [
     ".github/*"
