@@ -3,6 +3,13 @@ name = "mud"
 version = "0.0.1"
 authors = ["BlackPhlox <bphlox@gmail.com>"]
 edition = "2018"
+license = "MIT"
+description = "Write once, use everywhere, based on mudblazor.com"
+homepage = "mud.rs"
+repository = "https://github.com/BlackPhlox/mud"
+readme = "README.md"
+keywords = ["gui", "app", "api", "html", "css" ]
+categories = ["gui", "webassembly", "web-programming"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
