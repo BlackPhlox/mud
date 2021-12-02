@@ -1,7 +1,7 @@
 # Mud
 **M**ake<br/>
 **U**I<br/>
-**D**iaphanously
+[**D**iaphanously](https://www.merriam-webster.com/dictionary/diaphanous)
 
 [![crates.io](https://img.shields.io/crates/v/mud?label=Crates.io)](https://crates.io/crates/mud)<br/>
 ![crates.io](https://img.shields.io/crates/l/mud?label=License⠀)<br/>
